@@ -3,7 +3,7 @@
 package pinentry
 
 import (
-	"github.com/gopasspw/pinentry/gpgconf"
+	"github.com/itsonlycode/pinentry/gpgconf"
 	"os/exec"
 )
 
