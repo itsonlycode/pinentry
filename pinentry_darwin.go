@@ -6,7 +6,7 @@ package pinentry
 import (
 	"os/exec"
 
-	"github.com/gopasspw/pinentry/gpgconf"
+	"github.com/itsonlycode/pinentry/gpgconf"
 )
 
 // GetBinary always returns pinentry-mac
