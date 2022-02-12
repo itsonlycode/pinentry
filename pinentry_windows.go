@@ -2,7 +2,7 @@
 
 package pinentry
 
-import "github.com/gopasspw/pinentry/gpgconf"
+import "github.com/itsonlycode/pinentry/gpgconf"
 
 // GetBinary always returns pinentry.exe
 func GetBinary() string {
